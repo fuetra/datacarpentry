@@ -6,7 +6,7 @@ opts_chunk$set(results='hide')
 
 * Its really important that you know what you did. More journals/grants/etc. are also making it important for them to know what you did.
 * A lot of scientific code is NOT reproducible.
-* If you keep a lab notebook, why are we not as careful with our code. 
+* Many of us keep a lab notebook, so why are we not as careful with our code? 
 * We edit each others manuscripts, but we don't edit each other's code. 
 * If you write your code with "future you" in mind, you will save yourself and others a lot of time.
 
